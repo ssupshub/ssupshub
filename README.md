@@ -56,6 +56,6 @@ Welcome to my GitHub profile! I’m a **DevOps enthusiast** with a deep love for
 
 I’m always eager to discuss new ideas, collaborate on projects, or share insights on the latest tech. Feel free to reach out!
 
-ssuspshub my instagram
+ssupshub my instagram
 
 Thanks for checking out my profile! Let’s build something amazing together. 🚀🔧
