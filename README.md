@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I’m a **DevOps enthusiast** with a deep love for
 - Jenkins, GitLab CI, Travis CI, CircleCI, Azure DevOps
 
 ### **Containerization & Orchestration**
-- Docker, Kubernetes, OpenShift, Docker Swarm
+- Docker, Kubernetes, OpenShift, Docker swarm
 
 ### **Configuration Management**
 - Ansible, Chef, Puppet, SaltStack
