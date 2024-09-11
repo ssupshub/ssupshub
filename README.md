@@ -1,4 +1,3 @@
-Certainly! Here's the updated GitHub profile, now including Terraform in the relevant sections:
 
 ---
 
@@ -71,7 +70,7 @@ I’m a DevOps enthusiast with a deep passion for coding, system administration,
 
 I’m always eager to discuss new ideas, collaborate on projects, or share insights on the latest tech. Feel free to reach out!
 
-**Instagram:** [ssup_shub](https://www.instagram.com/ssup_shub)
+**Instagram:** [ssup_shub](https://www.instagram.com/shubham.x177)
 
 Thanks for checking out my profile! Let’s build something amazing together. 🚀🔧
 
