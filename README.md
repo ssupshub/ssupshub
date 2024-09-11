@@ -1,3 +1,4 @@
+Certainly! Here's the updated GitHub profile, now including Terraform in the relevant sections:
 
 ---
 
@@ -75,4 +76,3 @@ I’m always eager to discuss new ideas, collaborate on projects, or share insig
 Thanks for checking out my profile! Let’s build something amazing together. 🚀🔧
 
 ---
-
