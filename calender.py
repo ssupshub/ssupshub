@@ -17,8 +17,7 @@ x=calendar.month(year,month)
 print(x)
 
 import calculator
-year=2022
-month=10
+year=2028
+month=7
 x=calendar .month(year,month)
 print(x) 
-
