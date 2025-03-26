@@ -1,6 +1,5 @@
 # Hi, I'm **ssupshub** 👋
 
-![Tech Banner](https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
 ---
 
