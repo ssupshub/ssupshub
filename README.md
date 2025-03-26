@@ -1,86 +1,35 @@
-# Hi there, I'm **ssupshub**! 👋
+# Hi, I'm **ssupshub** 👋
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+![Tech Banner](https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+
+---
 
 ## 🚀 About Me
+DevOps enthusiast | Infrastructure Automator | Cloud & Security Explorer
 
-I'm a passionate DevOps enthusiast with a love for coding, system administration, and exploring all things tech. I automate processes, manage infrastructure, and constantly learn new tools and trends. Currently diving deep into cutting-edge cloud technologies, network configurations, and ethical hacking.
-
----
-
-## 🛠️ My Skill Set
-
-### **Operating Systems**
-- Linux (including Red Hat)
-- Various Linux distributions
-
-### **Networking**
-- CCNA concepts
-- Network configuration
-
-### **Security**
-- Ethical hacking (Kali Linux & more)
-
-### **Databases**
-- MongoDB, MySQL, PostgreSQL, Redis
-
-### **Cloud Computing**
-- AWS, Azure, Google Cloud Platform (GCP)
+I build efficient systems and automate workflows with passion and precision.
 
 ---
 
-## ⚙️ DevOps Tools & Technologies
+## 🛠️ Top Technologies
 
-### **Version Control**
-![Git](https://img.shields.io/badge/Git-Repo-blue)
-- Git, GitHub, GitLab, Bitbucket
-
-### **CI/CD**
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
-- Jenkins, GitLab CI, Travis CI, CircleCI, Azure DevOps
-
-### **Containerization & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-Containerized-blueviolet)
-- Docker, Kubernetes, OpenShift, Docker Swarm
-
-### **Configuration Management**
-![Ansible](https://img.shields.io/badge/Ansible-Automation-brightgreen)
-- Ansible, Chef, Puppet, SaltStack
-
-### **Infrastructure as Code (IaC)**
-- Terraform, AWS CloudFormation, Pulumi
-
-### **Monitoring & Logging**
-- Prometheus, Grafana, ELK Stack, Splunk, Datadog
-
-### **Cloud Providers**
-- AWS, Azure, GCP, IBM Cloud
-
-### **Networking & Security**
-- Nginx, HAProxy, iptables, AWS Security Groups, Kali Linux
-
-### **Package Management**
-- Helm, Apt, Yum, NPM, Maven
-
-### **Build Tools**
-- Maven, Gradle, Ant
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 
 ---
 
-## 💻 What You'll Find Here
-
-- **Projects:** DevOps projects, automation scripts, and infrastructure setups.
-- **Code Snippets:** Handy scripts and configurations.
-- **Guides:** Tutorials and documentation on DevOps tools and practices.
-
----
-
-## 🌟 Let's Connect!
-
-I'm always eager to collaborate, share insights, and learn about new tech. Feel free to reach out or connect with me:
-
-- **Instagram:** [ssup_shub](https://www.instagram.com/ssup.shub77/)
+## 💻 What I Share
+- **Projects:** Practical DevOps setups & automation scripts.
+- **Guides:** Quick tutorials & best practices.
+- **Code Snippets:** Reusable solutions for everyday challenges.
 
 ---
 
-![Stay Awesome](https://img.shields.io/badge/Stay-Awesome-ff69b4)
+## 📫 Let’s Connect!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ssup.shub77/)
+
+---
+
+*Let's build something amazing!*
