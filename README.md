@@ -41,6 +41,7 @@ I design and automate scalable infrastructures while ensuring robust security pr
 **Extra Tools:**  
 [![Bumloop](https://img.shields.io/badge/Bumloop-1abc9c?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/your-bumloop-repo)
 
+*Tech Sticker (representing my toolset):*  
 ![Tech Sticker](https://raw.githubusercontent.com/harish-sethuraman/harish-sethuraman/master/devops.gif)
 
 ---
