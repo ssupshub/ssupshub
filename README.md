@@ -29,10 +29,9 @@ I design and automate scalable infrastructures while ensuring robust security pr
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org) [![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)](https://metasploit.help.rapid7.com/docs) [![Nmap](https://img.shields.io/badge/Nmap-339933?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org) [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burp&logoColor=white)](https://portswigger.net/burp)
 
 **Extra Tools:**  
-[![Bumloop](https://img.shields.io/badge/Bumloop-1abc9c?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/your-bumloop-repo)
+[![Gumloop](https://img.shields.io/badge/Gumloop-1abc9c?style=for-the-badge&logo=databricks&logoColor=white)](https://www.gumloop.com)
 
-*Tech Sticker (representing my toolset):*  
-![Tech Sticker](https://raw.githubusercontent.com/harish-sethuraman/harish-sethuraman/master/devops.gif)
+
 
 ---
 
