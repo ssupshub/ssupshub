@@ -7,42 +7,39 @@ I'm a passionate DevOps professional focused on automating processes, building r
 ## 🚀 About Me
 
 DevOps Enthusiast | Cloud Explorer | Security Advocate | Lifelong Learner  
-I design and automate scalable infrastructures, integrate continuous delivery pipelines, and implement best practices for robust security.
+I design and automate scalable infrastructures, integrate CI/CD pipelines, and implement best practices for robust security.
 
 ---
 
 ## 🛠️ Key Technologies & Tools
 
 **Containerization & Orchestration:**  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 
 **Cloud Platforms:**  
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
 **Configuration Management & IaC:**  
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)  
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
 
 **Operating Systems & Security:**  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)
 
----
-
-## 🔧 More DevOps Tools & Networking
-
-**Jenkins** [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://jenkins.io) |  
-**Bumloop** [![Bumloop](https://img.shields.io/badge/Bumloop-1abc9c?style=for-the-badge)](https://github.com/your-bumloop-repo) |  
-**Git** [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) |  
-**Networking Tools**: Leveraging best practices in network configuration and security to ensure reliable connectivity.
+**DevOps Tools & Networking:**  
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![Bumloop](https://img.shields.io/badge/Bumloop-1abc9c?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/your-bumloop-repo)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+Networking Tools leveraging best practices in network configuration and security.
 
 ---
 
 ## 💻 What I Do
 
-I develop automation scripts, build CI/CD pipelines, manage containerized environments, and write concise guides and tutorials to help others streamline their workflows. Expect to see projects that address real-world challenges and offer practical solutions.
+I develop automation scripts, build CI/CD pipelines, manage containerized environments, and create concise guides and tutorials. Expect to see projects that address real-world challenges and offer practical solutions for modern DevOps workflows.
 
 ---
 
