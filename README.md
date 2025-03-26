@@ -33,7 +33,11 @@ I design and automate scalable infrastructures, integrate CI/CD pipelines, and i
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
 [![Bumloop](https://img.shields.io/badge/Bumloop-1abc9c?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/your-bumloop-repo)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-Networking Tools leveraging best practices in network configuration and security.
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+Networking Tools leveraging best practices in network configuration and security.  
+
+![DevOpsSticker](https://raw.githubusercontent.com/harish-sethuraman/harish-sethuraman/master/devops.gif)
 
 ---
 
@@ -46,6 +50,6 @@ I develop automation scripts, build CI/CD pipelines, manage containerized enviro
 ## 📫 Let’s Connect!
 
 I'm always open to new ideas and collaborations. Reach out through:  
-**Instagram:** [ssup_shub](https://www.instagram.com/ssup.shub77/) |  
+**Instagram:** [ssup_shub](https://www.instagram.com/ssup.shub77/)  
 
 *Let's build innovative solutions together!*
