@@ -19,6 +19,7 @@ I design and automate scalable infrastructures while ensuring robust security pr
 
 **Cloud & Infrastructure:**  
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)  
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)  
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)  
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
 
@@ -34,7 +35,8 @@ I design and automate scalable infrastructures while ensuring robust security pr
 **Cybersecurity & Ethical Hacking:**  
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)  
 [![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)](https://metasploit.help.rapid7.com/docs)  
-[![Nmap](https://img.shields.io/badge/Nmap-339933?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
+[![Nmap](https://img.shields.io/badge/Nmap-339933?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)  
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burp&logoColor=white)](https://portswigger.net/burp)
 
 **Extra Tools:**  
 [![Bumloop](https://img.shields.io/badge/Bumloop-1abc9c?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/your-bumloop-repo)
@@ -45,7 +47,7 @@ I design and automate scalable infrastructures while ensuring robust security pr
 
 ## 💻 What I Do
 
-I develop automation scripts, build CI/CD pipelines, manage containerized environments, and perform security assessments. I share guides and tutorials to empower others to build resilient, secure systems.
+I develop automation scripts, build CI/CD pipelines, manage containerized environments, and perform security assessments. I also create guides and tutorials to empower others to build resilient, secure systems.
 
 ---
 
