@@ -6,9 +6,8 @@ I’m a DevOps and Cybersecurity enthusiast dedicated to automating infrastructu
 
 ## 🚀 About Me
 
-DevOps & Cybersecurity Specialist | Cloud & Container Guru | Ethical Hacker  
-I design and automate scalable infrastructures while ensuring robust security practices. Whether it’s building CI/CD pipelines or performing security assessments, I love merging technology with security.
-
+DevOps & Cybersecurity Specialist | Cloud & Container Expert | Skilled in DevSecOps & Intermediate Security Practices
+I design and automate scalable cloud infrastructures on platforms like AWS and Azure, delivering secure, production-grade DevOps solutions. I'm also expanding my skills in web development and cybersecurity to become a more versatile engineer.
 ---
 
 ## 🛠️ Key Technologies & Tools
@@ -43,7 +42,7 @@ I design and automate scalable infrastructures while ensuring robust security pr
 
 ## 💻 What I Do
 
-I develop automation scripts, build CI/CD pipelines, manage containerized environments, and perform security assessments. I also create guides and tutorials to empower others to build resilient, secure systems.
+I develop automation scripts, build CI/CD pipelines, manage containerized environments, and perform security assessments. I also design and build projects—from backend scripts to full-stack web apps—and create guides and tutorials to empower others to build resilient, secure systems.
 
 ---
 
