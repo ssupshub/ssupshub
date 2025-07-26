@@ -8,7 +8,6 @@ I’m a DevOps and Cybersecurity enthusiast dedicated to automating infrastructu
 
 DevOps & Cybersecurity Specialist | Cloud & Container Expert | Skilled in DevSecOps & Intermediate Security Practices
 
-I design and automate scalable cloud infrastructures on platforms like AWS and Azure, delivering secure. I'm also expanding my skills in web development to become a more versatile engineer.
 ---
 
 ## 🛠️ Key Technologies & Tools
