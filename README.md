@@ -1,18 +1,17 @@
 # 👋 Hi, I'm **Shubham Chauhan**
 
-💻 **DevOps | Cloud | AI Automation Enthusiast**
+💻 **DevOps | Cloud | AI Automation**
 
-I’m passionate about **automating infrastructures**, **securing systems**, and **integrating AI with DevOps pipelines**.  
-I love exploring how cloud, security, and AI can work together to build smarter, faster, and safer solutions.
+🚀 Automating infrastructures, optimizing cloud systems, and blending AI with DevOps for smarter workflows.  
+⚙️ Turning complexity into scalability, reliability, and speed.
 
 ---
 
-## 🚀 **About Me**
+## 🧠 **About Me**
 
-🔹 DevOps & Cloud Specialist  
-🔹 Containerization & Infrastructure Automation Expert  
-🔹 Skilled in CI/CD, Infrastructure as Code, and AI-based Automation  
-🔹 Passionate about Cloud-Native Solutions and Scalable Architectures  
+🔹 DevOps & Cloud Engineer | Automation & CI/CD Specialist  
+🔹 Skilled in Docker, Kubernetes, Terraform & Ansible  
+🔹 Focused on Cloud-Native, Scalable, and AI-Driven Infrastructure  
 
 ---
 
@@ -32,7 +31,6 @@ I love exploring how cloud, security, and AI can work together to build smarter,
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
-[![CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudformation)
 
 ---
 
@@ -59,7 +57,6 @@ I love exploring how cloud, security, and AI can work together to build smarter,
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ---
 
@@ -72,24 +69,11 @@ I love exploring how cloud, security, and AI can work together to build smarter,
 
 ---
 
-## 💡 **What I Do**
-
-- 🔧 Develop automation scripts and CI/CD pipelines  
-- 🐳 Manage containerized environments with Docker & Kubernetes  
-- ☁️ Deploy and monitor cloud infrastructures on AWS & Azure  
-- ⚙️ Build Infrastructure-as-Code using Terraform & Ansible  
-- 🤖 Integrate AI tools for intelligent DevOps automation  
-- 🧩 Design and deliver scalable backend and cloud architectures  
-
----
-
-## 📫 **Let’s Connect!**
-
-I’m always open to collaborations and discussions around DevOps, AI, and Cloud Engineering.  
-Let’s innovate, secure, and automate together! 🚀
+## 📫 **Connect With Me**
 
 📸 **Instagram:** [@ssup_shub](https://www.instagram.com/ssup.shub77/)  
 💼 **LinkedIn:** [Shubham Chauhan](https://www.linkedin.com/in/shubham-chauhan-758765332/) 
+  
 
 ---
 
