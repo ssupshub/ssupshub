@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Shubham Chauhan**
+# Hi, I'm **Shubham Chauhan**
 
 💻 **DevOps | Cloud | AI Automation**
 
