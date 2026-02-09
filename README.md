@@ -66,7 +66,6 @@ Focused on cloud-native architectures, scalability, and AI-powered automation
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 [![Gumloop](https://img.shields.io/badge/Gumloop-1abc9c?style=for-the-badge&logo=databricks&logoColor=white)](https://www.gumloop.com)
 [![AutoGPT](https://img.shields.io/badge/AutoGPT-000000?style=for-the-badge&logo=robotframework&logoColor=white)](https://github.com/Significant-Gravitas/AutoGPT)
-[![CrewAI](https://img.shields.io/badge/CrewAI-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://www.crewai.com)
 [![Pinecone](https://img.shields.io/badge/Pinecone-0A192F?style=for-the-badge&logo=vectorworks&logoColor=white)](https://www.pinecone.io)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 
@@ -78,5 +77,13 @@ Focused on cloud-native architectures, scalability, and AI-powered automation
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-chauhan-758765332/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssupshub)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shubhamx77)
+
+---
+
+## GitHub Activity
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssupshub&theme=tokyonight&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ssupshub&theme=tokyonight&hide_border=true)
 
 ---
