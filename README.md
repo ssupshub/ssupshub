@@ -71,7 +71,8 @@
 
 ## 📫 **Connect With Me**
 
-📸 **Instagram:** [@ssup_shub](https://www.instagram.com/ssup.shub77/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ssup.shub77/)
+
 💼 **LinkedIn:** [Shubham Chauhan](https://www.linkedin.com/in/shubham-chauhan-758765332/) 
   
 
