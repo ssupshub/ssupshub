@@ -82,7 +82,6 @@ Focused on cloud-native architectures, scalability, and AI-powered automation
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssupshub&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ssupshub&theme=tokyonight&hide_border=true)
 
 ---
