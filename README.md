@@ -82,6 +82,6 @@ Focused on cloud-native architectures, scalability, and AI-powered automation
 
 ## GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ssupshub&theme=youtube-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ssupshub&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
