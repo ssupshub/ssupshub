@@ -82,5 +82,4 @@ Focused on cloud-native architectures, scalability, and AI-powered automation
 
 ## GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shubham&theme=sakura-x&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shubham&theme=sakura-x&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)---
