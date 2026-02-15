@@ -64,10 +64,9 @@ Focused on cloud-native architectures, scalability, and AI-powered automation
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![Gumloop](https://img.shields.io/badge/Gumloop-1abc9c?style=for-the-badge&logo=databricks&logoColor=white)](https://www.gumloop.com)
-[![AutoGPT](https://img.shields.io/badge/AutoGPT-000000?style=for-the-badge&logo=robotframework&logoColor=white)](https://github.com/Significant-Gravitas/AutoGPT)
-[![Pinecone](https://img.shields.io/badge/Pinecone-0A192F?style=for-the-badge&logo=vectorworks&logoColor=white)](https://www.pinecone.io)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C47FF?style=for-the-badge&logo=data&logoColor=white)](https://www.llamaindex.ai)
+[![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss)
+[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue?style=for-the-badge&logo=semanticweb&logoColor=white)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 
 ---
 
