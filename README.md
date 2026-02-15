@@ -22,6 +22,8 @@ Focused on cloud-native architectures, scalability, and AI-powered automation
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
 [![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io)
+[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://www.openshift.com)
+[![Rancher](https://img.shields.io/badge/Rancher-0075C2?style=for-the-badge&logo=rancher&logoColor=white)](https://rancher.com)
 
 ---
 
