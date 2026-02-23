@@ -33,6 +33,7 @@ Focused on cloud-native architectures, scalability, and AI-powered automation
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
 [![Pulumi](https://img.shields.io/badge/Pulumi-0A2D5A?style=for-the-badge&logo=pulumi&logoColor=white)](https://www.pulumi.com)
 
 ---
