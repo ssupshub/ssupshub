@@ -83,8 +83,7 @@ Focused on cloud-native architectures, scalability, and AI-powered automation
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-chauhan-758765332/)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/shubham_x777)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shubhamx77)
-[![Gmail](https://img.shields.io/badge/Gmail-subhamchauhan1310%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhamchauhan1310@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhamchauhan1310@gmail.com)
 ---
 
 ## GitHub Activity
